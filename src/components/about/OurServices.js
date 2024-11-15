@@ -6,7 +6,7 @@ function OurServices() {
   const serviceData = [
     {
       id: "01",
-      title: "Life Insurance",
+      title: "Life Insurances",
       description:
         "Ensure the financial security of your loved ones with our diverse range of life insurance plans.",
       className: "life",
