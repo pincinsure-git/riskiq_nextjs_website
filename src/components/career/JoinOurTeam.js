@@ -7,7 +7,7 @@ function JoinOurTeam() {
       <Container>
         <Row>
           <Col>
-            <h2>Join Our Team: Building Careers, Shaping Futures</h2>
+            <h2>Join Our Team: Building Careers,Shaping Futures</h2>
             <p style={{ marginTop: "28px" }}>
               Welcome to the career hub of Risk IQ Insurance, where we believe
               in the power of individuals to drive innovation, growth, and

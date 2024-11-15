@@ -31,7 +31,7 @@ function ReasonToBuy() {
   ];
   return (
     <>
-      <div className="types-cnt xl">REASONS TO BUY TERM LIFE INSURANCE</div>
+      <div className="types-cnt xl">Reasons To Buy Term Life Insuarnce</div>
       <section className="sub-banner types-sec xl">
         <Container>
           <Row>

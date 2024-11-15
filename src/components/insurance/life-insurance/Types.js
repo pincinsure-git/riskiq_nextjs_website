@@ -4,12 +4,12 @@ import { Col, Container, Row } from "react-bootstrap";
 function Types() {
   return (
     <>
-      <div className="types-cnt">TYPES OF TERM LIFE INSURANCE PLANS</div>
+      <div className="types-cnt">Types of Term Life Insuarnce Plans</div>
       <section className="sub-banner types-sec">
         <Container>
           <Row>
             <Col xs={12}>
-              <h4>1. LEVEL TERM PLANS OR STANDARD TERM PLANS:</h4>
+              <h4>1. Level Term Plans Or Standard Term Plans:</h4>
               <p>
                 “This is the most basic. simple form of term insurance where the
                 sum assured or death benefit is constant throughout the policy
@@ -18,7 +18,7 @@ function Types() {
               </p>
             </Col>
             <Col xs={12} style={{ marginTop: "46px" }}>
-              <h4>2. RETURN OF PREMIUM TERM PLANS:</h4>
+              <h4>2. Return Of Premium Term Plans:</h4>
               <p>
                 These type of Term plans come with maturity benefit wherein the
                 total premium paid will be returned to the life insured if
@@ -26,7 +26,7 @@ function Types() {
               </p>
             </Col>
             <Col xs={12} style={{ marginTop: "46px" }}>
-              <h4>3. CONVERTIBLE TERM PLANS:</h4>
+              <h4>3.Convertible Term Plans:</h4>
               <p>
                 These plans come with an option wherein the policyholder can
                 convert these plans into any other type of plan at a future

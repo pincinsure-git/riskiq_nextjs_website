@@ -30,7 +30,7 @@ function OurServices() {
   return (
     <section className="sub-banner our_services pt-5">
       <div className="os_card">
-        <h2>OUR SERVICES</h2>
+        <h2>Our Services</h2>
       </div>
       <Container fluid style={{ marginTop: "70px" }}>
         <Row className="row-gap-4">

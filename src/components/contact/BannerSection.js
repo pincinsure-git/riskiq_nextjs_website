@@ -7,7 +7,7 @@ function BannerSection({ title }) {
       <Container>
         <Row>
           <Col>
-            <h1 className="text-center sub-banner-title">{title}</h1>
+            <h1 className="text-center sub-banner-title">Contact Us</h1>
           </Col>
         </Row>
       </Container>

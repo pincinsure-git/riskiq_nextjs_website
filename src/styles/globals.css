@@ -50,7 +50,9 @@ p {
   font-size: 14px;
   font-weight: 400;
   line-height: 20px;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.04em
+  
+
 }
 
 @media (prefers-color-scheme: dark) {
@@ -196,7 +198,7 @@ section.sub-banner.who_we_are:after {
   font-family: "Open Sans", sans-serif !important;
   font-size: 34px;
   font-weight: 800;
-  line-height: 46.3px;
+  line-height: 57.3px;
   margin-top: 15px;
   color: #103f04;
 }
@@ -448,7 +450,7 @@ section.sub-banner.faq:before {
 }
 
 .blog-card-cnt h4 {
-  font-family: Open Sans;
+  font-family: "Open Sans", sans-serif !important ;
   font-size: 22px;
   font-weight: 600;
   line-height: 36px;
@@ -477,7 +479,7 @@ section.sub-banner.faq:before {
 }
 
 .card-wrapper h3 {
-  font-size: 24px;
+  font-size: 48px;
   font-weight: 800;
   line-height: 32.68px;
 }
@@ -761,7 +763,7 @@ section.sub-banner.our_services p {
   font-size: 25px;
   font-weight: 700;
   line-height: 29.35px;
-  font-family: "Raleway", sans-serif !important;
+  font-family: "Open Sans", sans-serif !important;
 }
 
 .os_card {
@@ -906,17 +908,16 @@ section.sub-banner.our-partner-sec p {
 }
 
 .join-our-team h2 {
-  font-size: 72px;
-  font-weight: 700;
+  font-size: 48px;
+  font-weight: 800;
   line-height: 68px;
-  font-family: "Nunito Sans", sans-serif;
+  
 }
 
 .join-our-team p {
-  font-family: "Nunito Sans", sans-serif;
   font-size: 22px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 27px;
 }
 
 .join-our-team h4 {
@@ -940,9 +941,10 @@ section.sub-banner.our-partner-sec p {
 }
 
 .insurance-sec h2 {
-  font-size: 54px;
-  font-weight: 700;
+  font-size: 48px;
+  font-weight: 800;
   line-height: 63.4px;
+  
 }
 
 .insurance-sec .wwa_card {
@@ -953,9 +955,9 @@ section.sub-banner.our-partner-sec p {
 ul.why-choose-us-li li p,
 .types-sec p,
 section.sub-banner.our-partner-sec p {
-  font-size: 22px;
-  font-weight: 400;
-  line-height: 30.8px;
+  font-size: 21px;
+    font-weight: 400;
+    line-height: 32px;
   color: #00308d;
 }
 
@@ -963,9 +965,9 @@ section.sub-banner.our-partner-sec p {
   background: #00308d;
   text-align: center;
   padding: 45px 0;
-  font-family: "Raleway", sans-serif !important;
-  font-size: 54px;
-  font-weight: 700;
+  font-family: "Open Sans", sans-serif !important;
+  font-size: 48px;
+  font-weight: 800;
   line-height: 63.4px;
   text-align: left;
   text-underline-position: from-font;
@@ -1182,7 +1184,7 @@ ul.get_in_touch_li li a {
   }
 
   .types-cnt.xl {
-    font-size: 60px;
+    font-size: 48px;
     line-height: 74.4px;
   }
 

@@ -7,7 +7,7 @@ function About() {
       <Container>
         <Row>
           <Col>
-            <h2 className="text-center">WHAT IS HEALTH INSURANCE?</h2>
+            <h2 className="text-center">What is Health Insuarnce?</h2>
             <div className="wwa_card about">
               <p className="m-0">
                 Health insurance is a type of insurance coverage that covers the

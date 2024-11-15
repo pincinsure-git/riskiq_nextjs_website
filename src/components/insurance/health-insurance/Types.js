@@ -4,12 +4,12 @@ import { Col, Container, Row } from "react-bootstrap";
 function Types() {
   return (
     <>
-      <div className="types-cnt">TYPES OF HEALTH INSURANCE PLANS</div>
+      <div className="types-cnt">Types of Health Insuarnce Plans</div>
       <section className="sub-banner types-sec">
         <Container>
           <Row>
             <Col xs={12}>
-              <h4>1. HOSPITALIZATION PLANS:</h4>
+              <h4>1. Hospitalization Plans:</h4>
               <p>
                 Hospitalization plans reimburse the hospitalization and medical
                 costs of the insured subject to the sum insured. For this
@@ -17,7 +17,7 @@ function Types() {
               </p>
             </Col>
             <Col xs={12} style={{ marginTop: "46px" }}>
-              <h4>2. HOSPITAL DAILY CASH BENEFIT PLANS:</h4>
+              <h4>2. Hospital Daily Cash Benefit Plans:</h4>
               <p>
                 A hospital cash plan pays you a specific prefixed amount for
                 each day you are hospitalized. The number of days for which this
@@ -31,7 +31,7 @@ function Types() {
               </p>
             </Col>
             <Col xs={12} style={{ marginTop: "46px" }}>
-              <h4>3. CRITICAL ILLNESS PLANS:</h4>
+              <h4>3. Critical Illness Plans:</h4>
               <p>
                 These are benefit-based health insurance plans which pay a
                 lumpsum amount on diagnosis of predefined critical illnesses and

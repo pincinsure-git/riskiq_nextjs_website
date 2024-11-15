@@ -38,7 +38,7 @@ function WhyChooseUs() {
       <Container>
         <Row>
           <Col>
-            <h3>WHY CHOOSE US?</h3>
+            <h3>Why Choose Us?</h3>
             <p>
               As your insurance brokers, we strive to offer you the best
               insurance experience. We try to bring to you the cheapest

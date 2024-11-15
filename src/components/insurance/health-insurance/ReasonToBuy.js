@@ -10,7 +10,7 @@ const reasons = [
 function ReasonToBuy() {
   return (
     <>
-      <div className="types-cnt xl">REASON TO BUY HEALTH INSURANCE</div>
+      <div className="types-cnt xl">Reason to Buy Health Insuarnce</div>
       <section className="sub-banner types-sec xl">
         <Container>
           {reasons.map((reason, index) => (

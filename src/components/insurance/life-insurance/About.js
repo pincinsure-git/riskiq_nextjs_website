@@ -7,7 +7,7 @@ function About() {
       <Container>
         <Row>
           <Col>
-            <h2 className="text-center">WHAT IS TERM LIFE INSURANCE?</h2>
+            <h2 className="text-center">What is term Life Insuarnce ?</h2>
             <div className="wwa_card">
               <p className="m-0">
                 Term insurance is the simplest and most affordable form of life

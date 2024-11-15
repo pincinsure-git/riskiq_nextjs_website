@@ -30,7 +30,7 @@ export default function Home() {
         title={<>Your Partner in Insurance<br /> Business Growth.</>}
         para="Lorem ipsum dolor sit amet consectetur. At odio elementum ac ut vel pellentesque eget. Risus nulla nunc commodo laoreet mattis ut viverra nunc non. Ullamcorper eget ipsum in mauris orci morbi. Vel diam sed eu pretium viverra elementum."
       />
-      <ChooseUsSection title="WHY CHOOSE US ?" />
+      <ChooseUsSection title="Why Choose Us ?" />
       <OurPartner
         title={
           <>
@@ -46,7 +46,7 @@ export default function Home() {
           </>
         }
       />
-      <FAQ title='FREQUENTLY ASKED QUESTIONS' />
+      <FAQ title='Frequently Asked Questions' />
       <BlogSection
         title={<>Our <span>Blog</span></>}
         para='Eget lacinia vulputate diam tempor. Porttitor consequat mattis nunc tellus in quisque rhoncus accumsan. Sit pellentesque ut est id nunc amet convallis. Dui odio quis arcu leo at turpis.' />
